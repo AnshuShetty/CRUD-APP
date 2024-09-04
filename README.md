@@ -1,13 +1,14 @@
 **Books CRUD App**
-Overview
+
 The Books CRUD App is a web application that allows users to manage a collection of books. It provides functionality to create, read, update, and delete (CRUD) book records. This app is built using modern web technologies and follows best practices for web development.
 
-Features
+**Features**
 Create: Add new books to the collection.
 Read: View a list of all books and detailed information about each book.
 Update: Edit the details of existing books.
 Delete: Remove books from the collection.
-Technologies Used
+
+**Technologies Used:**
 Frontend: React, HTML, CSS, JavaScript
 Backend: Node.js, Express
 Database: MongoDB
