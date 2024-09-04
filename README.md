@@ -9,7 +9,7 @@ Update: Edit the details of existing books.
 Delete: Remove books from the collection.
 
 **Technologies Used:**
-Frontend: React, HTML, CSS, JavaScript
+Frontend:  HTML, CSS, JavaScript
 Backend: Node.js, Express
 Database: MongoDB
 Other: Mongoose (for MongoDB object modeling), Axios (for HTTP requests)
